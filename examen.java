@@ -36,7 +36,7 @@ public class examen {
                     System.out.print("Ingrese la segunda palabra: ");
                     String palabra2 = scanner.nextLine();
                     
-                    
+                     System.out.println("Palabras concatenadas: " + palabra1 + palabra2);
                     break;
 
                 case 2:
