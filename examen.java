@@ -31,6 +31,11 @@ public class examen {
 
             switch (opcion) {
                 case 1:
+                      System.out.print("Ingrese la primera palabra: ");
+                    String palabra1 = scanner.nextLine();
+                    System.out.print("Ingrese la segunda palabra: ");
+                    String palabra2 = scanner.nextLine();
+                    
                     
                     break;
 
