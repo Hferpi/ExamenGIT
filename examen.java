@@ -40,7 +40,11 @@ public class examen {
                     break;
 
                 case 2:
-                   
+                   System.out.print("Ingrese una frase: ");
+                    String frase = scanner.nextLine();
+                    String[] palabras = frase.trim().split("\\s+");
+                    
+                    System.out.println("La frase contiene " + palabras.length + " palabras.");
                     break;
 
                 case 3:
