@@ -43,7 +43,11 @@ public class examen {
                     break;
 
                 case 4:
-                 
+                  System.out.print("¿Está seguro que desea salir? (s/n): ");
+                    char confirmacion = scanner.nextLine().charAt(0);
+                    if (confirmacion == 's' || confirmacion == 'S') {
+                        salir = true;
+                        
                     break;
 
                 default:
