@@ -50,6 +50,8 @@ public class examen {
                         }
                     }
                     
+                    System.out.println("La letra '" + letra + "' aparece " + contador + " veces en la frase.");
+
                     break;
 
                 case 4:
