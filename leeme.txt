@@ -1,0 +1,4 @@
+Programa de Menú Interactivo en Java
+Descripción
+
+Este programa es un menú interactivo en Java que permite realizar diferentes operaciones de texto según la elección del usuario. Se repite hasta que el usuario decida salir del programa.
